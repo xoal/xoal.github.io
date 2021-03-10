@@ -1,2 +1,2 @@
-# samuelgrandgerard.github.io
-Portfolio de Samuel GRANDGERARD, étudiant en BTS SIO
+# https://github.com/xoal/xoal.github.io
+Portfolio de Mathias POLIAN, étudiant en BTS SIO
